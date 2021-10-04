@@ -1,12 +1,13 @@
-# Hacktoberfest 2021 ✨
+# DSA Sheet Solutions ✨
 
 
-![enter image description here](https://user-images.githubusercontent.com/64991656/135403993-8436cfd2-5314-4c03-8509-d33e51c565b2.png)
 
 ![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)&nbsp;![Open Source Love](https://badges.frapsoft.com/os/v1/open-source.svg?v=102)
 
 This repo contains my solutions of Babbar Bhaiya's DSA sheet **[Click here to access the DSA Sheet](https://drive.google.com/file/d/1FMdN_OCfOI0iAeDlqswCiC2DZzD4nPsb/view) 
-<br />I will keep adding solutions as I solve them and will be happy to accept any contributions during Hacktoberfest 2021**.
+<br />I will keep adding solutions as I solve them and will be happy to accept any contributions**.
+
+### PS: Not accepting PR's for Hacktoberfest 2021 anyomore
 
 ## Steps to contribute :
 
