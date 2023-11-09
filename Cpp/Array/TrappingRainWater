@@ -1,0 +1,21 @@
+class Solution {
+public:
+    int trap(vector<int>& a) {
+        int n=a.size();
+        int l=0, r=n-1;
+        int w=0,maxr=0,maxl=0;
+        while(l<=r){
+            if(a[l]<=a[r]){
+                if(a[l]>=maxl){ maxl=a[l]; }
+                else { w+=maxl-a[l]; }
+                l++;
+            }
+            else{
+                if(a[r]>=maxr){ maxr=a[r]; }
+                else { w+=maxr-a[r]; }
+                r--;
+            }
+        }
+        return w;
+    }
+};
